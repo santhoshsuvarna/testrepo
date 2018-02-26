@@ -1,0 +1,3 @@
+[filter "modify-google-tag-code"]
+    clean = sed -e '/^GTM-/s/.*/GTM-N5CKQNXXX/'
+
