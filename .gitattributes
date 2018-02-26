@@ -1,3 +1,1 @@
-[filter "modify-google-tag-code"]
-    clean = sed "s/GTM-N5CKQN/GTM-N5CKQNXXXXXX/"
-
+filter "modify-google-tag-code"
