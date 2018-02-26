@@ -1,1 +1,2 @@
-testjs.html	filter=modify-google-tag-code
+*.html	filter=dev_google-tag-code
+*.html	filter=prod_google-tag-code
