@@ -1,4 +1,2 @@
 [filter "dev_google-tag-code"]
     clean = sed "s/GTM-544JFM2/GTM-N5CKQNYYYYYYY/"
-
-	
