@@ -1,3 +1,15 @@
 [user]
-    name = Santhosh
-    email = santhosh.suvarna@glowtouch.com
+	name = Santhosh.Suvarna1
+	email = santhosh.suvarna@glowtouch.com
+[core]
+	autocrlf = false
+[gui]
+	recentrepo = C:/Users/Santhosh.Suvarna/Desktop/santestmodule
+[credential]
+[credential "https://github.com/Weebly/glowtouch-whmcs.git"]
+[credential "https://github.com/santhoshsuvarna/testrepo.git"]
+	helper = manager
+	username = santhosh.suvarna@glowtouch.com
+[dev_google-tag-code]	
+	clean = sed "s/GTM-544JFM2/GTM-544JFM2YYYYYYY/"		
+		
